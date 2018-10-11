@@ -7,6 +7,7 @@ class SampleClassComponentFile extends Component {
         super(props);
 
         this.state = {
+            //You can change this.  For example if you have a form.   This is  an example of the use of state and class based components
             name: 'Chance',
         }
 

@@ -25,7 +25,7 @@ class App extends Component {
           </a>
         </header>
 
-        <SampleFunctionalComponentFile/>
+        <SampleFunctionalComponentFile sampleProp={'You are a conservative. I know!'}/>
         <SampleClassComponentFile/>
       </div>
     );
